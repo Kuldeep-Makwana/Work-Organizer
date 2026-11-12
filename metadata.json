@@ -1,0 +1,6 @@
+{
+  "name": "ReelLog",
+  "description": "Personal daily reel editing work tracker with Nothing OS minimalist design and immutable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
